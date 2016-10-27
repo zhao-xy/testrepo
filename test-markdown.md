@@ -17,7 +17,7 @@ test
     # *  *  *  *  * user-name command to be executed
     +# 22  5  *  *  * root run-parts /opt/corp-webapp/apps/app-latest/bash/cron.daily
     +# 22  1  *  *  6 root run-parts /opt/corp-webapp/apps/app-latest/bash/cron.weekly
-
+    ```
 
 1. apacheの設定
 

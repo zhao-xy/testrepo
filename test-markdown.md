@@ -16,8 +16,9 @@
         - {CORP_VERSION} には corpアプリケーションジバージョン
         - {YYYYMMDD}  には 作業当日の日付
     をそれぞれ代入します。
-    
-    | Tables   |      Are      |  Cool |
+
+
+| Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |

@@ -18,8 +18,8 @@
 	|サブシステム名|	acweb	|スキーマ名|	acweb|			
 	|作成日|	2016/10/31|更新日|2016/10/31	|		
 	|論理テーブル名|アカリクWEBアカウント|物理テーブル名|dd0a05_users	|
-	|RDBMS|	5.5.42	|ENGINE	|	MyISAM	|		
-	|CHARSET|utf8	|	|		|	
+	|RDBMS|	MySQL 5.5.42	|	|		|		
+	|ENGINE	|	MyISAM	|CHARSET|utf8	|	
 	
 	
 	カラム情報
